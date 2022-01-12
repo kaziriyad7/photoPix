@@ -47,7 +47,6 @@ nav{
 	text-decoration: none;
 	color: black;
 	font-size:20px;
-
 	padding: 10px 20px;
 	font-family: sans-serif;
 
@@ -223,11 +222,6 @@ nav{
 .m-images img:hover{
 	transform: scale(1.5);
 }
-
-
-
-
-
 
 
 
