@@ -54,21 +54,21 @@ nav{
 
 }
 .menu a:first-child{
-	color:#e74c3c;
+	color:#f01f08;
 }
 .menu a:hover{
-	color: #e74c3c;
+	color: #f01f08;
 	transition: 0.4s;
 }
 .icon i{
 	font-size:20px;
 }
 .icon i:hover{
-	color: #e74c3c;
+	color: #f01f08;
 }
 .icon a{
 	padding:10px 20px;
-	background:#e74c3c;
+	background:#f01f08;
 	color:white;
 	text-decoration: none;
 	margin-left:30px;
@@ -76,7 +76,7 @@ nav{
 }
 .icon a:hover{
 	background: transparent;
-	border:1px solid #e74c3c;
+	border:1px solid #f01f09;
 	color: black;
 	transition: 0.4s ease;
 }
