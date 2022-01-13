@@ -93,8 +93,9 @@ nav{
 	text-align: center;
 }
 #camera{
-	font-size: 40px;
+	font-size: 50px;
 	margin-bottom: 10px;
+	color:#0de018;
 }
 .h-text h1{
 	font-family: sans-serif;
@@ -102,7 +103,7 @@ nav{
 	line-height:1.5em;
 }
 .h-text input{
-	width: 60%;
+	width: 50%;
 	padding: 20px;
 	border-radius: 8px;
 	font-size: 20px;
@@ -110,9 +111,9 @@ nav{
 	outline: none;
 }
 .h-text button{
-	width: 30%;
+	width: 25%;
 	padding:20px;
-	background: #e74c3c;
+	background: #0de018;
 	font-size: 20px;
 	border:none;
 	outline: none;
@@ -170,6 +171,15 @@ nav{
 	height: 100%;
 	border-radius: 8px;
 }
+/* Here is filter-gallary section end */
+
+
+/* here is our information section start */
+.informationIcon {
+	height: 300px;
+	width: 500px;
+	border-radius:10px;
+}
 .members{
 	font-family: sans-serif;
 	width: 100%;
@@ -177,10 +187,13 @@ nav{
 }
 .member-info{
 	text-align: center;
-
 }
 .member-info h1 {
 	font-size: 2.5em;
+}
+.member-info p{
+	margin-top: 20px;
+	font-size: large;
 }
 .member-info h1 span{
 	color:#e74c3c;
@@ -191,7 +204,6 @@ nav{
 	width: 50%;
 	margin:auto;
 }
-
 .member-card p{
 	margin:20px 0px;
 	line-height: 2em;
@@ -214,6 +226,9 @@ nav{
 .m-images img:hover{
 	transform: scale(1.5);
 }
+/* Here is our information section end */
+
+
 
 /* Here is footer section start */
 footer{
